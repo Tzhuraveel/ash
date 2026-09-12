@@ -1,0 +1,8 @@
+---
+description: Ash project context, product decisions, and conventions
+alwaysApply: true
+---
+
+Read `docs/agent-context.md` at the repo root before making changes — it has
+project context, product decisions already made, and working conventions. Keep it
+updated as real decisions get made.
